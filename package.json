@@ -1,0 +1,24 @@
+{
+  "name": "hbnvec",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/misseshyo/hbnvec.js.git"
+  },
+  "description": "My first test package ",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+	"keywords": [
+    "n-dimension",
+    "vector",
+    "arithmetic"
+  ],
+  "author": "Marcos Nadolny",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
+  }
+}
